@@ -1,6 +1,6 @@
-task = input("Enter your task:")
-priority = input("Priority (high/medium/low):")
-time_bound = input("Is it time-bound? (yes/no)")
+task = input("Enter your task: ")
+priority = input("Priority (high/medium/low): ")
+time_bound = input("Is it time-bound? (yes/no) ")
 
 time_1 = "that requires immediate attention today!"
 time_2 = "Consider completing it when you have free time."
