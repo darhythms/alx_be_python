@@ -1,4 +1,4 @@
-pattern_size = int(input("Enter the size of the pattern"))
+pattern_size = int(input("Enter the size of the pattern:"))
 count = pattern_size
 
 while count != 0:
